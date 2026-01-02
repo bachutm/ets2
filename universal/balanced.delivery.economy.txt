@@ -1,0 +1,5 @@
+Balanced Delivery Economy
+- Adjusted job payouts and economy balance
+- Reworked police fines and offence probabilities
+- Slightly increased and more varied traffic
+Designed to feel closer to real-life driving economics.
